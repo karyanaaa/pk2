@@ -1,0 +1,49 @@
+﻿<Window x:Class="demo.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Авторизация" Height="540" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Вход в систему" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+        <StackPanel Grid.Row="1" Margin="0,0,0,10">
+            <TextBlock Text="Логин:"/>
+            <TextBox x:Name="TxtLogin" Height="25" VerticalContentAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Margin="0,0,0,10">
+            <TextBlock Text="Пароль:"/>
+            <PasswordBox x:Name="TxtPassword" Height="25" VerticalContentAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Капча (Пазл 2x2) -->
+        <StackPanel Grid.Row="3" Margin="0,0,0,10">
+            <TextBlock Text="Соберите пазл (кликните по двум фрагментам, чтобы поменять их местами):" TextWrapping="Wrap" Margin="0,0,0,5"/>
+            <Grid x:Name="CaptchaGrid" Width="160" Height="160" HorizontalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Image x:Name="ImgPart1" Grid.Row="0" Grid.Column="0" MouseDown="Image_MouseDown" Stretch="Fill"/>
+                <Image x:Name="ImgPart2" Grid.Row="0" Grid.Column="1" MouseDown="Image_MouseDown" Stretch="Fill"/>
+                <Image x:Name="ImgPart3" Grid.Row="1" Grid.Column="0" MouseDown="Image_MouseDown" Stretch="Fill"/>
+                <Image x:Name="ImgPart4" Grid.Row="1" Grid.Column="1" MouseDown="Image_MouseDown" Stretch="Fill"/>
+            </Grid>
+        </StackPanel>
+
+        <Button x:Name="BtnLogin" Grid.Row="4" Content="Войти" Height="35" Click="BtnLogin_Click" Margin="0,10,0,0"/>
+    </Grid>
+</Window>

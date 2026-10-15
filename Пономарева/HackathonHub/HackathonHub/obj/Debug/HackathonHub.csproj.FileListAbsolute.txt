@@ -1,0 +1,224 @@
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.AssemblyReference.cache
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\CreateHackathonWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\CreateTeamWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\HackathonDetailsWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\LoginWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\MainWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\ForgotPasswordWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\RegisterWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\ResetPasswordWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\UploadProjectWindow.baml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\CreateHackathonWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\CreateTeamWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\HackathonDetailsWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\MainWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\ForgotPasswordWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\RegisterWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\ResetPasswordWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Views\UploadProjectWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\App.g.cs
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\HackathonHub_MarkupCompile.cache
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\HackathonHub.g.resources
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\HackathonHub.Properties.Resources.resources
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.GenerateResource.cache
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\HackathonHub.exe.config
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\HackathonHub.exe
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\HackathonHub.pdb
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Buffers.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.IO.Pipelines.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Memory.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Text.Json.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Buffers.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.IO.Pipelines.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Memory.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Text.Json.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\Hackatho.92D7EB69.Up2Date
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\HackathonHub.exe
+C:\Users\karin\OneDrive\Desktop\111\HackathonHub\HackathonHub\obj\Debug\HackathonHub.pdb
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\HackathonHub.exe.config
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\HackathonHub.exe
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\HackathonHub.pdb
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\Newtonsoft.Json.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Buffers.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.IO.Pipelines.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Memory.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Numerics.Vectors.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Text.Encodings.Web.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\Newtonsoft.Json.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Buffers.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.IO.Pipelines.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Memory.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Numerics.Vectors.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Text.Encodings.Web.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.AssemblyReference.cache
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\CreateHackathonWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\CreateTeamWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\HackathonDetailsWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\LoginWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\MainWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ForgotPasswordWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\RegisterWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ResetPasswordWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ScoreProjectWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\UploadProjectWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\CreateHackathonWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\CreateTeamWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\HackathonDetailsWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\LoginWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\MainWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ForgotPasswordWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\RegisterWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ResetPasswordWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ScoreProjectWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\UploadProjectWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\App.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\HackathonHub_MarkupCompile.cache
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\HackathonHub.g.resources
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\HackathonHub.Properties.Resources.resources
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.GenerateResource.cache
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.CoreCompileInputs.cache
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Hackatho.92D7EB69.Up2Date
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\HackathonHub.exe
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\HackathonHub.pdb
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\runtimes\win-arm64\native\qpdf.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\runtimes\win-arm64\native\QuestPdfSkia.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\runtimes\win-x64\native\qpdf.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\runtimes\win-x86\native\qpdf.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\QuestPDF.Fonts.Lato.gz
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\ClosedXML.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\ClosedXML.Parser.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\DocumentFormat.OpenXml.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\ExcelNumberFormat.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.HashCode.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\QuestPDF.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\RBush.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\SixLabors.Fonts.dll
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\ClosedXML.pdb
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\ClosedXML.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\ClosedXML.Parser.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\DocumentFormat.OpenXml.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\ExcelNumberFormat.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.HashCode.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\QuestPDF.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\RBush.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\bin\Debug\SixLabors.Fonts.xml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ProjectDetailsWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ProjectDetailsWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ChatWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\RulesWindow.baml
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\ChatWindow.g.cs
+\\Pc452\Общая\7-23\0_Курсовой проект МДК 11.01____ 4 курс\Пономарева\HackathonHub\HackathonHub\obj\Debug\Views\RulesWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\runtimes\win-arm64\native\qpdf.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\runtimes\win-arm64\native\QuestPdfSkia.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\runtimes\win-x64\native\qpdf.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\runtimes\win-x86\native\qpdf.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\QuestPDF.Fonts.Lato.gz
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\HackathonHub.exe.config
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\HackathonHub.exe
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\HackathonHub.pdb
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\ClosedXML.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\ClosedXML.Parser.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\ExcelNumberFormat.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\QuestPDF.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\RBush.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\SixLabors.Fonts.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Buffers.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.IO.Pipelines.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Memory.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\ClosedXML.pdb
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\ClosedXML.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\ClosedXML.Parser.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\ExcelNumberFormat.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\QuestPDF.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\RBush.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\SixLabors.Fonts.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Buffers.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.IO.Pipelines.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Memory.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.AssemblyReference.cache
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ChatWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\CreateHackathonWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\CreateTeamWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\HackathonDetailsWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\LoginWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\MainWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ForgotPasswordWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ProjectDetailsWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\RegisterWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ResetPasswordWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\RulesWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ScoreProjectWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\UploadProjectWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ChatWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\CreateHackathonWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\CreateTeamWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\HackathonDetailsWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\MainWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ForgotPasswordWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ProjectDetailsWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\RegisterWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ResetPasswordWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\RulesWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ScoreProjectWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\UploadProjectWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\App.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub_MarkupCompile.cache
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub.g.resources
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub.Properties.Resources.resources
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.GenerateResource.cache
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Hackatho.92D7EB69.Up2Date
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub.exe
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub.pdb
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\CreateCriterionWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\CreateCriterionWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ManageCriteriaWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ManageCriteriaWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ManageRegistrationsWindow.baml
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\Views\ManageRegistrationsWindow.g.cs
+C:\Users\karin\OneDrive\Desktop\HackathonHub\HackathonHub\obj\Debug\HackathonHub.exe.config

@@ -1,0 +1,71 @@
+﻿<Window x:Class="WpfApp1.OrderDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Чудо Обувь — Состав заказа"
+        Height="600" Width="900"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Style="{StaticResource TopBar}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0"
+                        Content="← Назад"
+                        Style="{StaticResource PlainButton}"
+                        Click="BtnBack_Click"/>
+            </Grid>
+        </Border>
+
+        <StackPanel Grid.Row="1" Margin="16,12,16,0">
+            <TextBlock x:Name="TxtHeader"
+                       FontFamily="{StaticResource AppFont}"
+                       FontSize="16" FontWeight="Bold"/>
+            <TextBlock x:Name="TxtCustomer"
+                       FontFamily="{StaticResource AppFont}"
+                       FontSize="13"
+                       Margin="0,4,0,0"/>
+        </StackPanel>
+
+        <DataGrid Grid.Row="2"
+                  x:Name="GridItems"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  FontFamily="{StaticResource AppFont}"
+                  FontSize="13"
+                  Margin="16,12">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Товарная позиция"
+                                    Binding="{Binding Description}"
+                                    Width="*"/>
+                <DataGridTextColumn Header="Кол-во"
+                                    Binding="{Binding Quantity}"
+                                    Width="80"/>
+                <DataGridTextColumn Header="Цена"
+                                    Binding="{Binding UnitPrice, StringFormat={}{0:N2} ₽}"
+                                    Width="120"/>
+                <DataGridTextColumn Header="Сумма"
+                                    Binding="{Binding Sum, StringFormat={}{0:N2} ₽}"
+                                    Width="120"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Border Grid.Row="3"
+                Background="{StaticResource BrushSecondary}"
+                Padding="16,10">
+            <TextBlock x:Name="TxtTotal"
+                       FontFamily="{StaticResource AppFont}"
+                       FontSize="16" FontWeight="Bold"
+                       HorizontalAlignment="Right"/>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="demo.Views.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Рабочий стол администратора" Height="400" Width="600" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Управление пользователями" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <DataGrid x:Name="UsersGrid" Grid.Row="1" AutoGenerateColumns="True" IsReadOnly="True" Margin="0,0,0,10"/>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="BtnAdd" Content="Добавить" Width="100" Height="30" Margin="0,0,10,0" Click="BtnAdd_Click"/>
+            <Button x:Name="BtnUnblock" Content="Разблокировать" Width="120" Height="30" Margin="0,0,10,0" Click="BtnUnblock_Click"/>
+            <Button x:Name="BtnExit" Content="Выйти" Width="100" Height="30" Click="BtnExit_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

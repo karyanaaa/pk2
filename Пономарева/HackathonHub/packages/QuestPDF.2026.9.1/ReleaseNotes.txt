@@ -1,0 +1,10 @@
+- Updated Skia to m154.
+- Updated qpdf to 12.4.1.
+- Fixed an issue where garbage collection could corrupt PDF tag attributes during concurrent PDF generation.
+- Improved PDF/UA-1 compatibility when generating ZUGFeRD and Factur-X invoices.
+- Fixed an issue in the `DocumentOperation` API where `DocumentAttachmentRelationship.Supplement` was incorrectly mapped to `/Alternative`.
+- Improved handling of stream-writing exceptions during PDF generation.
+- The ShowInCompanion API now automatically starts the Companion App if it is not already running (requires Companion App 2026.9.0 or newer).
+- Improved exception messages related to `Settings.ThrowOnMissingFontFamilies`, `Settings.ThrowOnMissingTextGlyphs`, and `Settings.UseSystemFonts`.
+- Reduced connection time to the Companion App on Windows.
+- Added missing license files for dependencies.

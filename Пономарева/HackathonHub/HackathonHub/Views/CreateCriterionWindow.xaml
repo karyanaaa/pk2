@@ -1,0 +1,129 @@
+﻿<Window x:Class="HackathonHub.Client.Views.CreateCriterionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Новый критерий" Height="560" Width="560"
+        WindowStartupLocation="CenterOwner"
+        Background="#f7fafc"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <LinearGradientBrush x:Key="SkyGrad" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#5eb3d6" Offset="0"/>
+            <GradientStop Color="#7fc6e0" Offset="1"/>
+        </LinearGradientBrush>
+
+        <Style x:Key="Tile" TargetType="Border">
+            <Setter Property="Background" Value="#ffffff"/>
+            <Setter Property="CornerRadius" Value="24"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect Color="#c8dae4" BlurRadius="24" ShadowDepth="3" Opacity="0.3"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="Pill" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="Padding" Value="20,10"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" CornerRadius="30" Background="{StaticResource SkyGrad}">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"
+                                              Margin="{TemplateBinding Padding}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Opacity" Value="0.9"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="SoftPill" TargetType="Button">
+            <Setter Property="Foreground" Value="#1a2b38"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="Padding" Value="20,10"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" CornerRadius="30" Background="#eef4f8">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"
+                                              Margin="{TemplateBinding Padding}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Background" Value="#dde9f0"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Border Style="{StaticResource Tile}" Margin="20" Padding="30">
+        <StackPanel>
+            <TextBlock Text="Новый критерий"
+                       FontSize="24" FontWeight="Bold"
+                       Foreground="#1a2b38" HorizontalAlignment="Center"
+                       Margin="0,0,0,25"/>
+
+            <TextBlock Text="НАЗВАНИЕ" FontSize="11" FontWeight="SemiBold"
+                       Foreground="#7d8f9c" Margin="0,0,0,4"/>
+            <TextBox x:Name="NameBox" Padding="12,10" FontSize="14"
+                     Background="White" BorderBrush="#dde9f0" BorderThickness="1"
+                     Margin="0,0,0,15"/>
+
+            <TextBlock Text="ОПИСАНИЕ" FontSize="11" FontWeight="SemiBold"
+                       Foreground="#7d8f9c" Margin="0,0,0,4"/>
+            <TextBox x:Name="DescBox" Padding="12,10" FontSize="13"
+                     AcceptsReturn="True" Height="80" TextWrapping="Wrap"
+                     Background="White" BorderBrush="#dde9f0" BorderThickness="1"
+                     Margin="0,0,0,15"/>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Margin="0,0,8,0">
+                    <TextBlock Text="МАКС. БАЛЛ" FontSize="11" FontWeight="SemiBold"
+                               Foreground="#7d8f9c" Margin="0,0,0,4"/>
+                    <TextBox x:Name="MaxScoreBox" Text="10" Padding="12,10" FontSize="14"
+                             Background="White" BorderBrush="#dde9f0" BorderThickness="1"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" Margin="8,0,0,0">
+                    <TextBlock Text="ВЕС (0.1 - 5.0)" FontSize="11" FontWeight="SemiBold"
+                               Foreground="#7d8f9c" Margin="0,0,0,4"/>
+                    <TextBox x:Name="WeightBox" Text="1.0" Padding="12,10" FontSize="14"
+                             Background="White" BorderBrush="#dde9f0" BorderThickness="1"/>
+                </StackPanel>
+            </Grid>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right"
+                        Margin="0,25,0,0">
+                <Button Content="ОТМЕНА"
+                        Click="Cancel_Click"
+                        Style="{StaticResource SoftPill}"
+                        Width="120" Margin="0,0,10,0"/>
+                <Button Content="✓ СОЗДАТЬ"
+                        Click="Create_Click"
+                        Style="{StaticResource Pill}"
+                        Width="140"/>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,104 @@
+﻿<Window x:Class="HackathonHub.Client.Views.RulesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Правила участия" Height="700" Width="720"
+        WindowStartupLocation="CenterOwner"
+        Background="#f7fafc"
+        ResizeMode="CanResize">
+
+    <Window.Resources>
+        <Style x:Key="Tile" TargetType="Border">
+            <Setter Property="Background" Value="#ffffff"/>
+            <Setter Property="CornerRadius" Value="24"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect Color="#c8dae4" BlurRadius="24" ShadowDepth="3" Opacity="0.3"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="SoftPill" TargetType="Button">
+            <Setter Property="Foreground" Value="#1a2b38"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="Padding" Value="20,10"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="Bd" CornerRadius="30" Background="#eef4f8">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"
+                                              Margin="{TemplateBinding Padding}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Bd" Property="Background" Value="#dde9f0"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Border Style="{StaticResource Tile}" Margin="20" Padding="30">
+            <StackPanel>
+                <TextBlock Text="📜 Правила участия в хакатонах"
+                           FontSize="24" FontWeight="Bold"
+                           Foreground="#1a2b38" Margin="0,0,0,20"/>
+
+                <TextBlock Text="1. Уважение к другим участникам"
+                           FontSize="16" FontWeight="Bold"
+                           Foreground="#5eb3d6" Margin="0,10,0,6"/>
+                <TextBlock Text="Запрещены оскорбления, дискриминация, агрессивное поведение. Все спорные ситуации решает организатор."
+                           FontSize="13" Foreground="#1a2b38" TextWrapping="Wrap" Margin="0,0,0,14"/>
+
+                <TextBlock Text="2. Оригинальность работ"
+                           FontSize="16" FontWeight="Bold"
+                           Foreground="#5eb3d6" Margin="0,10,0,6"/>
+                <TextBlock Text="Проект должен быть создан в рамках хакатона. Запрещено копирование чужих проектов и использование готовых решений без указания авторства."
+                           FontSize="13" Foreground="#1a2b38" TextWrapping="Wrap" Margin="0,0,0,14"/>
+
+                <TextBlock Text="3. Соблюдение сроков"
+                           FontSize="16" FontWeight="Bold"
+                           Foreground="#5eb3d6" Margin="0,10,0,6"/>
+                <TextBlock Text="Проект должен быть загружен до окончания дедлайна. Работы, сданные после срока, не рассматриваются."
+                           FontSize="13" Foreground="#1a2b38" TextWrapping="Wrap" Margin="0,0,0,14"/>
+
+                <TextBlock Text="4. Состав команды"
+                           FontSize="16" FontWeight="Bold"
+                           Foreground="#5eb3d6" Margin="0,10,0,6"/>
+                <TextBlock Text="Максимум 5 человек в команде. Изменение состава запрещено после дедлайна регистрации."
+                           FontSize="13" Foreground="#1a2b38" TextWrapping="Wrap" Margin="0,0,0,14"/>
+
+                <TextBlock Text="5. Честная игра"
+                           FontSize="16" FontWeight="Bold"
+                           Foreground="#5eb3d6" Margin="0,10,0,6"/>
+                <TextBlock Text="Запрещены любые попытки взлома платформы, фальсификации оценок, сговор с членами жюри."
+                           FontSize="13" Foreground="#1a2b38" TextWrapping="Wrap" Margin="0,0,0,14"/>
+
+                <Border Background="#fce7ef" CornerRadius="14" Padding="18" Margin="0,20,0,0">
+                    <StackPanel>
+                        <TextBlock Text="⚠️ За нарушение правил:"
+                                   FontSize="14" FontWeight="Bold"
+                                   Foreground="#e8a8c4" Margin="0,0,0,8"/>
+                        <TextBlock Text="• Первое нарушение — предупреждение от организатора"
+                                   FontSize="12" Foreground="#1a2b38" Margin="0,0,0,4"/>
+                        <TextBlock Text="• Повторное нарушение — блокировка аккаунта на 7 дней"
+                                   FontSize="12" Foreground="#1a2b38" Margin="0,0,0,4"/>
+                        <TextBlock Text="• Грубое нарушение — полная блокировка без возможности восстановления"
+                                   FontSize="12" Foreground="#1a2b38"/>
+                    </StackPanel>
+                </Border>
+
+                <Button Content="✓ Я ПРОЧИТАЛ"
+                        Click="Close_Click"
+                        Style="{StaticResource SoftPill}"
+                        HorizontalAlignment="Right"
+                        Margin="0,25,0,0"/>
+                <TextBlock TextWrapping="Wrap" Text="TextBlock"/>
+            </StackPanel>
+        </Border>
+    </ScrollViewer>
+</Window>
